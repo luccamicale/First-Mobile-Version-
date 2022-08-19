@@ -1,0 +1,152 @@
+* {
+  padding: 0;
+  margin: 0;
+  border-radius: 5px;
+  border-left: 15px;
+  margin-left: 2px;
+}
+
+.contenedor {
+  width: 327px;
+  height: 150px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+  flex: auto;
+  order: 0;
+  flex-grow: 0;
+  font-family: 'Poppins';
+}
+
+.main {
+  width: 327px;
+  height: 146px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.contac {
+  width: 117px;
+  height: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  color: #7f8cff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-size: 24px;
+}
+
+.logo {
+  width: 76px;
+  height: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #6070ff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  padding-top: 20px;
+  top: 5px;
+}
+
+.signal {
+  position: absolute;
+  top: 18px;
+  padding-left: 8px;
+}
+
+.wifi {
+  position: absolute;
+  width: 19px;
+  height: 7;
+  left: 5px;
+  top: 19px;
+  padding-left: 62px;
+}
+
+.batery {
+  position: absolute;
+  width: 19px;
+  height: 7px;
+  left: 40px;
+  top: 16px;
+}
+
+.hour {
+  display: flex;
+  position: absolute;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+  color: #000;
+  top: 4%;
+  right: 15px;
+}
+
+.menuu {
+  position: absolute;
+  color: #6070ff;
+  top: 58px;
+  right: 15px;
+}
+
+.ellipse {
+  position: absolute;
+  background: #6070ff;
+  margin-top: 25px;
+  left: 250px;
+}
+
+.twitter {
+  position: absolute;
+  left: 34px;
+  top: 548px;
+}
+
+.letteri {
+  position: absolute;
+  left: 70px;
+  top: 550px;
+}
+
+.lettern {
+  position: absolute;
+  left: 77px;
+  top: 548px;
+}
+
+.letterm {
+  position: absolute;
+  left: 100px;
+  top: 548px;
+}
+
+.git {
+  position: absolute;
+  left: 130px;
+  top: 546px;
+}
+
+.hand {
+  position: absolute;
+  left: 160px;
+  top: 546px;
+}
