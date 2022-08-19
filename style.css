@@ -19,7 +19,7 @@
   flex: auto;
   order: 0;
   flex-grow: 0;
-  font-family: 'Poppins';
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .main {
