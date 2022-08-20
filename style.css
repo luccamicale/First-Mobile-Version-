@@ -93,22 +93,26 @@
   top: 45px;
   right: 15px;
 }
+
 .ellipse {
   position: absolute;
   background: #6070ff;
   margin-top: 25px;
   left: 250px;
 }
+
 .twitter {
   position: absolute;
   left: 34px;
   top: 448px;
 }
+
 .letteri {
   position: absolute;
   left: 70px;
   top: 450px;
 }
+
 .lettern {
   position: absolute;
   left: 77px;
