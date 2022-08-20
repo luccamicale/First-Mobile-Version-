@@ -2,8 +2,13 @@
 My first project in Microverse
 
 
+<<<<<<< HEAD
 > Description the project.
 
+=======
+ Description the project.
+ 
+>>>>>>> ed1ccdef2826dcabf1178a3ba222b8ee38bb0c68
 I choosed the frist template in Figma and modify a lot styles. This steps is very important for me to lear daily a lot things in the wordl of programming. 
 
 
