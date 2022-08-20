@@ -64,21 +64,7 @@
   flex-grow: 0;
   padding-top: 20px;
   top: 5px;
-}
-
-.signal {
-  position: absolute;
-  top: 18px;
-  padding-left: 8px;
-}
-
-.wifi {
-  position: absolute;
-  width: 19px;
-  height: 7;
-  left: 5px;
-  top: 19px;
-  padding-left: 62px;
+  text-decoration: none;
 }
 
 .batery {
@@ -104,49 +90,45 @@
 .menuu {
   position: absolute;
   color: #6070ff;
-  top: 58px;
+  top: 45px;
   right: 15px;
 }
-
 .ellipse {
   position: absolute;
   background: #6070ff;
   margin-top: 25px;
   left: 250px;
 }
-
 .twitter {
   position: absolute;
   left: 34px;
-  top: 548px;
+  top: 448px;
 }
-
 .letteri {
   position: absolute;
   left: 70px;
-  top: 550px;
+  top: 450px;
 }
-
 .lettern {
   position: absolute;
   left: 77px;
-  top: 548px;
+  top: 448px;
 }
 
 .letterm {
   position: absolute;
   left: 100px;
-  top: 548px;
+  top: 448px;
 }
 
 .git {
   position: absolute;
   left: 130px;
-  top: 546px;
+  top: 447px;
 }
 
 .hand {
   position: absolute;
   left: 160px;
-  top: 546px;
+  top: 447px;
 }
