@@ -1,6 +1,6 @@
 # First Mobile Version
 
-> Description the project.
+
 I choosed the frist template in Figma and modify a lot styles. This steps is very important for me to lear daily a lot things in the wordl of programming. 
 
 
