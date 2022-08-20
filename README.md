@@ -1,8 +1,7 @@
 
 
-# Project Name 
+# My first project in Microverse!
 
-  My first project in Microverse
 
 > Description the project.
   I have completed my project in compliance with the established guidelines. I am very happy with the changes made and I hope to continue learning day by day so that I can do projects like this and better ones. The project contains two main files, one HTML and one CSS. Also, added the linters, to make quality code.
