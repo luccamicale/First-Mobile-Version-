@@ -1,5 +1,4 @@
 
-
 # My first project in Microverse!
 
 
@@ -33,9 +32,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/luccamicale
+- Twitter: https://twitter.com/LuccaMicale_
+- LinkedIn: https://www.linkedin.com/in/lucca-micale-907908233/
 
 👤 **Author2**
 
@@ -61,4 +60,3 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
