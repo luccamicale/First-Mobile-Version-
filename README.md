@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **LUCCA MICALE**
 
 - GitHub: https://github.com/luccamicale
 - Twitter: https://twitter.com/LuccaMicale_
@@ -59,4 +59,5 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
+
 
