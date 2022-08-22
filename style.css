@@ -1,18 +1,19 @@
 * {
   padding: 0;
   margin: 0;
-  border-radius: 5px;
   border-left: 15px;
   margin-left: 2px;
 }
 
 .contenedor {
+  position: absolute;
   width: 327px;
   height: 150px;
+  padding-left: 15px;
   font-style: normal;
   font-weight: 700;
-  font-size: 25px;
-  line-height: 52px;
+  font-size: 38px;
+  line-height: 56px;
   display: flex;
   align-items: center;
   color: #172b4d;
@@ -20,11 +21,14 @@
   order: 0;
   flex-grow: 0;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  top: 180px;
 }
 
 .main {
+  position: absolute;
   width: 327px;
   height: 146px;
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -33,6 +37,8 @@
   flex: none;
   order: 1;
   flex-grow: 0;
+  padding-left: 15px;
+  top: 370px;
 }
 
 .contac {
@@ -49,6 +55,7 @@
 }
 
 .logo {
+  position: absolute;
   width: 76px;
   height: 20px;
   font-style: normal;
@@ -62,9 +69,9 @@
   flex: none;
   order: 0;
   flex-grow: 0;
-  padding-top: 20px;
-  top: 5px;
+  top: 29px;
   text-decoration: none;
+  padding-left: 15px;
 }
 
 .batery {
@@ -87,52 +94,61 @@
   right: 15px;
 }
 
-.menuu {
-  position: absolute;
-  color: #6070ff;
-  top: 45px;
-  right: 15px;
-}
-
-.ellipse {
-  position: absolute;
-  background: #6070ff;
-  margin-top: 25px;
-  left: 250px;
-}
-
 .twitter {
   position: absolute;
   left: 34px;
-  top: 448px;
+  top: 600px;
 }
 
 .letteri {
   position: absolute;
   left: 70px;
-  top: 450px;
+  top: 600px;
 }
 
 .lettern {
   position: absolute;
   left: 77px;
-  top: 448px;
+  top: 600px;
 }
 
 .letterm {
   position: absolute;
   left: 100px;
-  top: 448px;
+  top: 600px;
 }
 
 .git {
   position: absolute;
   left: 130px;
-  top: 447px;
+  top: 599px;
 }
 
 .hand {
   position: absolute;
   left: 160px;
-  top: 447px;
+  top: 597px;
+}
+
+.let {
+  padding-left: 15px;
+  position: absolute;
+  top: 550px;
+}
+
+.content {
+  padding-right: 25px;
+}
+
+.fondoo {
+  position: absolute;
+  width: 450px;
+  height: 718px;
+  left: 0;
+  top: 55px;
+}
+
+.menu {
+  padding-left: 360px;
+  margin-top: 20px;
 }
