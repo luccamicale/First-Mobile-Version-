@@ -163,6 +163,14 @@
   width: 320px;
 }
 
+.all1{
+  display: grid;
+}
+
+.all2{
+  display: grid;
+}
+
 .tonic {
   font-size: 32px;
   padding-left: 80px;
@@ -174,11 +182,13 @@
   font-style: normal;
   color: #172b4d;
   margin-top: 10px;
+  display: grid;
 }
 
 .words {
   padding-left: 80px;
   margin-top: 20px;
+  display: grid;
 }
 
 .subtitle {
@@ -192,11 +202,16 @@
   margin-right: 100px;
   width: 300px;
   height: 80px;
+  display: grid;
 }
 
 .lenguage {
   margin-top: 19px;
   padding-left: 75px;
+}
+
+.all3{
+  display: grid;
 }
 
 .see {
@@ -211,6 +226,10 @@
 .two {
   margin-top: 150px;
   padding-left: 80px;
+}
+
+.all4{
+  display: grid;
 }
 
 .multipost {
@@ -292,36 +311,46 @@
   position: absolute;
   left: 130px;
   top: 4250px;
+  display: flex;
 }
 
 .letteri1 {
   position: absolute;
   left: 70px;
   top: 4250px;
+  display: flex;
 }
 
 .lettern1 {
   position: absolute;
   left: 77px;
   top: 4250px;
+  display: flex;
 }
 
 .letterm1 {
   position: absolute;
   left: 160px;
   top: 4250px;
+  display: flex;
 }
 
 .git1 {
   position: absolute;
   left: 34px;
   top: 4250px;
+  display: flex;
 }
 
 .hand1 {
   position: absolute;
   left: 100px;
   top: 4250px;
+  display: flex;
+}
+
+.flex{
+  display: flex;
 }
 
 .lenguage1 {
@@ -336,6 +365,7 @@
 .see1 {
   margin-top: 30px;
   padding-left: 27px;
+  display: grid;
 }
 
 .java {
@@ -343,6 +373,7 @@
   order: 0;
   padding-left: 40px;
   margin-top: 20px;
+  display: grid;
 }
 
 .html {
@@ -350,9 +381,11 @@
   order: 1;
   padding-left: 40px;
   margin-top: 10px;
+  display: grid;
 }
 
 .css {
+  display: grid;
   flex: none;
   order: 2;
   padding-left: 40px;
@@ -360,6 +393,7 @@
 }
 
 .frame {
+  display: grid;
   flex: none;
   order: 1;
   padding-left: 40px;
@@ -367,6 +401,7 @@
 }
 
 .ski {
+  display: grid;
   flex: none;
   order: 2;
   padding-left: 40px;
