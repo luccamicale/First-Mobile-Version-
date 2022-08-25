@@ -374,6 +374,7 @@
   padding-left: 40px;
   margin-top: 20px;
   display: grid;
+  list-style: none;
 }
 
 .html {
@@ -406,4 +407,52 @@
   order: 2;
   padding-left: 40px;
   margin-top: 10px;
+}
+
+.inline {
+  list-style: none;
+}
+
+.point1 {
+  list-style: none;
+}
+
+.point2 {
+  list-style: none;
+}
+
+.point3 {
+  list-style: none;
+}
+
+.point4 {
+  list-style: none;
+}
+
+.point5 {
+  list-style: none;
+}
+
+.inline2 {
+  list-style: none;
+}
+
+.point6 {
+  list-style: none;
+}
+
+.point7 {
+  list-style: none;
+}
+
+.point8 {
+  list-style: none;
+}
+
+.point9 {
+  list-style: none;
+}
+
+.point10 {
+  list-style: none;
 }
