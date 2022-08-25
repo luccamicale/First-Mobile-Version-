@@ -14,7 +14,6 @@
   font-weight: 700;
   font-size: 38px;
   line-height: 56px;
-  display: flex;
   align-items: center;
   color: #172b4d;
   flex: auto;
@@ -22,6 +21,7 @@
   flex-grow: 0;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   top: 180px;
+  display: flexbox;
 }
 
 .main {
@@ -252,6 +252,10 @@
   padding-left: 75px;
 }
 
+.part1 {
+  display: flexbox;
+}
+
 .subtitle1 {
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
@@ -289,6 +293,10 @@
   padding-left: 20px;
 }
 
+.document2 {
+  display: flexbox;
+}
+
 .sub1 {
   margin-top: 25px;
   top: 4000px;
@@ -307,11 +315,19 @@
   margin-top: 15px;
 }
 
+.part2 {
+  display: flexbox;
+}
+
 .twitter1 {
   position: absolute;
   left: 130px;
   top: 4250px;
   display: flex;
+}
+
+.document3 {
+  display: flexbox;
 }
 
 .letteri1 {
@@ -326,6 +342,10 @@
   left: 77px;
   top: 4250px;
   display: flex;
+}
+
+.part3 {
+  display: flexbox;
 }
 
 .letterm1 {
@@ -349,6 +369,10 @@
   display: flex;
 }
 
+.document4 {
+  display: flexbox;
+}
+
 .flex {
   display: flex;
 }
@@ -362,10 +386,26 @@
   padding-top: 10px;
 }
 
+.part4 {
+  display: flexbox;
+}
+
+.document5 {
+  display: flexbox;
+}
+
+.part5 {
+  display: flexbox;
+}
+
 .see1 {
   margin-top: 30px;
   padding-left: 27px;
   display: grid;
+}
+
+.part6 {
+  display: flexbox;
 }
 
 .java {
@@ -455,4 +495,8 @@
 
 .point10 {
   list-style: none;
+}
+
+.document1 {
+  display: flexbox;
 }
