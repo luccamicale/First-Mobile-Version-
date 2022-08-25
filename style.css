@@ -326,8 +326,8 @@
   display: flex;
 }
 
-.document3 {
-  display: flexbox;
+.document3{
+  display: flexbox
 }
 
 .letteri1 {
@@ -496,7 +496,6 @@
 .point10 {
   list-style: none;
 }
-
-.document1 {
+.document1{
   display: flexbox;
 }
