@@ -141,16 +141,26 @@
 }
 
 .fondoo {
-  position: absolute;
-  width: 450px;
-  height: 718px;
-  left: 0;
-  top: 55px;
+  padding-top: 40px;
 }
 
 .menu {
-  padding-left: 360px;
-  margin-top: 20px;
+  position: absolute;
+  width: 76px;
+  height: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  align-items: center;
+  text-align: center;
+  color: #6070ff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  top: 24px;
+  text-decoration: none;
+  padding-left: 280px;
 }
 
 .one {
@@ -158,13 +168,18 @@
   flex: none;
   order: 0;
   flex-grow: 0;
-  padding-top: 800px;
+  padding-top: 700px;
   height: 290px;
   width: 320px;
 }
 
+.one11 {
+  display: none;
+}
+
 .all1 {
-  display: grid;
+  max-width: 100vw;
+  margin-top: 10px;
 }
 
 .all2 {
@@ -176,38 +191,52 @@
   padding-left: 80px;
   width: 295px;
   height: 36px;
-  flex: none;
+  display: flex;
   order: 0;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
   color: #172b4d;
-  margin-top: 10px;
-  display: grid;
+  margin-top: 1000px;
+  position: absolute;
 }
 
 .words {
-  padding-left: 80px;
-  margin-top: 20px;
-  display: grid;
+  padding-left: 600px;
+  margin-top: 10px;
+  display: flex;
+  float: left;
 }
 
 .subtitle {
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
   font-size: 16px;
-  padding-left: 80px;
   color: #344563;
-  flex: none;
-  order: 1;
-  margin-right: 100px;
+  padding-left: 80px;
   width: 300px;
   height: 80px;
-  display: grid;
+  display: flex;
+  position: absolute;
+  margin-top: 300px;
+  margin-bottom: 200px;
 }
 
-.lenguage {
-  margin-top: 19px;
-  padding-left: 75px;
+.buttons button {
+  background: #ebebff;
+  border-radius: 8px;
+  color: #6070ff;
+  height: 24px;
+  width: 60px;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  border: none;
+  margin-top: 20px;
+}
+.buttons {
+  margin-left: 80px;
+  padding: 10px;
+  letter-spacing: 5px;
 }
 
 .all3 {
@@ -253,7 +282,8 @@
 }
 
 .part1 {
-  display: flexbox;
+  display: flex;
+  float: left;
 }
 
 .subtitle1 {
@@ -496,9 +526,12 @@
 .point10 {
   list-style: none;
 }
+
 .document1 {
-  display: flexbox;
+  display: flex;
+  flex-direction: column;
 }
+
 form {
   margin: 0;
   width: 400px;
@@ -519,7 +552,8 @@ label {
   margin: 5px;
   position: absolute;
 }
-#name{
+
+#name {
   width: 327px;
   height: 40px;
   padding-top: 20px;
@@ -529,7 +563,8 @@ label {
   border: 1px solid #CFD8DC;
   border-radius: 8px;
 }
-#mail{
+
+#mail {
   width: 327px;
   height: 40px;
   margin-top: 15px;
@@ -540,7 +575,8 @@ label {
   border: 1px solid #CFD8DC;
   border-radius: 8px;
 }
-#msg{
+
+#msg {
   width: 327px;
   height: 170px;
   margin-top: 15px;
@@ -550,7 +586,8 @@ label {
   border-radius: 8px;
   resize: none;
 }
-#sub{
+
+#sub {
   margin-top: 15px;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
@@ -562,7 +599,8 @@ label {
   color: #6070FF;
   margin-left: 0px;
 }
-.textt{
+
+.textt {
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   position: absolute;
   width: 327px;
@@ -575,7 +613,8 @@ label {
   color: #EBEBFF;
   margin-top: 170px;
 }
-.fond{
+
+.fond {
   position: absolute;
   width: 375px;
   height: 779px;
@@ -583,7 +622,8 @@ label {
   background: #6070FF;
   display: flexbox;
 }
-.contacme{
+
+.contacme {
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   position: absolute;
   color: #EBEBFF;
@@ -591,20 +631,23 @@ label {
   left: 55px;
   font-size: 40px;
 }
-.for{
+
+.for
+{
   display: flexbox;
 }
-.rectan{
+
+.rectan {
   position: absolute;
   width: 80px;
   height: 20px;
   left: 258px;
-  top: 5637px;
+  top: 6087px;
   background: #7F8CFF;
   transform: matrix(0.8, 0.6, 0.6, -0.8, 0, 0);
   list-style: none;
 }
-.rectan1{
+.rectan1 {
   position: absolute;
   width: 72px;
   height: 16px;
@@ -614,10 +657,29 @@ label {
   transform: rotate(-23.18deg);
   list-style: none;
 }
-.ellip{
+
+.ellip {
   position: absolute;
   width: 90px;
   height: 89px;
   left: 328px;
   background: #FFFFFF;
 }
+.portfolio {
+  display: none;
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 15px;
+}
+
+.fondoo1 {
+  display: none;
+  width: 1340px;
+  height: 816px;
+}
+
+
+
+
+
+
+
