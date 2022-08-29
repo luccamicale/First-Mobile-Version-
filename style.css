@@ -233,6 +233,7 @@
   border: none;
   margin-top: 20px;
 }
+
 .buttons {
   margin-left: 80px;
   padding: 10px;
@@ -539,14 +540,15 @@ form {
   height: 500px;
   position: absolute;
   margin-top: 315px;
-  
 }
+
 label {
   display: flex;
   width: 90px;
   text-align: right;
 }
-.point11{
+
+.point11 {
   list-style: none;
   padding: 0;
   margin: 5px;
@@ -560,7 +562,7 @@ label {
   padding-left: 7px;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
-  border: 1px solid #CFD8DC;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
 }
 
@@ -572,7 +574,7 @@ label {
   padding-left: 7px;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
-  border: 1px solid #CFD8DC;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
 }
 
@@ -582,7 +584,7 @@ label {
   margin-top: 15px;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
-  border: 1px solid #CFD8DC;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
   resize: none;
 }
@@ -591,13 +593,13 @@ label {
   margin-top: 15px;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
-  background: #FFFFFF;
+  background: #fff;
   border-radius: 8px;
-  border-color: #6070FF;
+  border-color: #6070ff;
   width: 140px;
   height: 40px;
-  color: #6070FF;
-  margin-left: 0px;
+  color: #6070ff;
+  margin-left: 0;
 }
 
 .textt {
@@ -610,7 +612,7 @@ label {
   font-size: 20px;
   line-height: 28px;
   text-align: center;
-  color: #EBEBFF;
+  color: #ebebff;
   margin-top: 170px;
 }
 
@@ -618,22 +620,21 @@ label {
   position: absolute;
   width: 375px;
   height: 779px;
-  left: 0px;
-  background: #6070FF;
+  left: 0;
+  background: #6070ff;
   display: flexbox;
 }
 
 .contacme {
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   position: absolute;
-  color: #EBEBFF;
+  color: #ebebff;
   margin-top: 100px;
   left: 55px;
   font-size: 40px;
 }
 
-.for
-{
+.for {
   display: flexbox;
 }
 
@@ -643,17 +644,18 @@ label {
   height: 20px;
   left: 258px;
   top: 6087px;
-  background: #7F8CFF;
+  background: #7f8cff;
   transform: matrix(0.8, 0.6, 0.6, -0.8, 0, 0);
   list-style: none;
 }
+
 .rectan1 {
   position: absolute;
   width: 72px;
   height: 16px;
   left: 300px;
   margin-top: 40px;
-  background: #7F8CFF;
+  background: #7f8cff;
   transform: rotate(-23.18deg);
   list-style: none;
 }
@@ -663,8 +665,9 @@ label {
   width: 90px;
   height: 89px;
   left: 328px;
-  background: #FFFFFF;
+  background: #fff;
 }
+
 .portfolio {
   display: none;
   font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -676,10 +679,3 @@ label {
   width: 1340px;
   height: 816px;
 }
-
-
-
-
-
-
-
