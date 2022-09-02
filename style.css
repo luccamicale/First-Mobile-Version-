@@ -522,7 +522,7 @@
   background: #6070ff;
   border-radius: 100px 0 0 0;
   min-height: 850px;
-  width: 100vw;
+  
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -706,6 +706,10 @@ form ul {
   display: none;
 }
 
+#ruby2 {
+  display: none;
+}
+
 .imag-mypost2 {
   display: none;
 }
@@ -850,7 +854,7 @@ form ul {
   display: none;
 }
 
-@media (min-width: 728px) {
+@media (min-width: 768px) {
   body {
     overflow-x: hidden;
   }
@@ -1477,4 +1481,9 @@ form ul {
   .arrow2 {
     margin-top: -20px;
   }
+
+  .all5 {
+    width: 1400px;
+  }
+
 }
